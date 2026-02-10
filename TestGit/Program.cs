@@ -6,7 +6,7 @@
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Nico Devriendt!");
-            Console.WriteLine("Ik eet graag jagersworst");
+            Console.WriteLine("Ik eet graag jagersworst met frietjes");
         }
     }
 }
